@@ -1,7 +1,3 @@
-/**
- *
- * @author jamaalcrichfield
- */
 public class AverageOfArrayValue {
     public static void main(String[] args) {
         int[] integerArray = { 34, 22, 56, 77, 23, 79, 44, 89 };
